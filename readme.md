@@ -6,7 +6,7 @@ This program allows you to run you code on AMPPS without moving it to the root o
 Place this file in the desired project folder and run the script
 Run the program by typing: 
 ```bash 
-python linker.py <optional_args>
+python linker.py
 ```
 ### Valid Arguments:
 1. ```<path_to_ampps_root_folder>```
