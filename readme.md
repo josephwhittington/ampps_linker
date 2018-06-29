@@ -3,8 +3,7 @@
 ### Description
 This program allows you to run you code on AMPPS without moving it to the root of the AMPPS through the use of symbolic links.
 ### How to Use
-Place this file in the desired project folder and run the script
-Run the program by typing: 
+Place this file in the desired project folder and run the script by typing: 
 ```bash 
 python linker.py
 ```
