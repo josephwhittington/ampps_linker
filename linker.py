@@ -3,7 +3,7 @@
 # Dependencies: python 2.7.*
 # Description: This script links the directory it's in to AMPPS
 
-# **run the program by typing "python make_json.py with optional filepath"
+# **run the program by typing "python linker.py with optional filepath"
 
 import os
 from sys import argv
