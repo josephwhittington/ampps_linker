@@ -1,4 +1,4 @@
-# Title: AAMPS_linker
+# Title: AMPPS_linker
 # Author: Joseph Whittington
 # Dependencies: python 2.7.*
 # Description: This script links the directory it's in to AMPPS
